@@ -1,0 +1,18 @@
+{
+    "name": "hdrezka-client",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kiraind",
+    "license": "MIT",
+    "dependencies": {
+        "jsdom": "^16.2.2",
+        "node-fetch": "^2.6.0",
+        "socks-proxy-agent": "^5.0.0"
+    },
+    "devDependencies": {}
+}
